@@ -1,4 +1,5 @@
 Check the existing rules:
+iptables -S
 iptables -L -n
 Enable SSH access for our IP 
 iptables -A INPUT -s 192.168.4.13 -p tcp --dport 22 -j ACCEPT
