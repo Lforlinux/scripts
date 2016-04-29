@@ -12,7 +12,7 @@
     
      count=1
      color=30
-     cat /home/tanmay/search.txt | while read line
+     cat /var/tmp/search.txt | while read line
      do
 let color++
 printf "\e[1;${color}m"	
