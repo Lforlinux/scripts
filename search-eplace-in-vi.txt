@@ -1,0 +1,9 @@
+The syntax is as follows:
+:%s/WORD-To-Find-HERE/Replace-Word-Here/g
+
+OR
+:%s/FindMe/ReplaceME/g
+
+
+#Reference-URL
+http://www.cyberciti.biz/faq/linux-unix-vim-find-replace-text-string-words/
