@@ -1,0 +1,38 @@
+[kln@klnprserver scripts]$ git log --diff-filter=D --summary
+commit 20fb2fc0d34c8b9573919e434162527dab7f9b19
+Author: Lekshminarayanan <Lekshm1K@emeriocorp.com>
+Date:   Tue May 3 11:30:17 2016 +0530
+
+    not needed here
+
+ delete mode 100644 ssh-key-usage-on-git
+ delete mode 100644 test-frm-kln-pr-server.txt
+
+commit c56b1b24da77c02e215ce765060f912c07361440
+Author: Lekshminarayanan <Lekshm1K@emeriocorp.com>
+Date:   Tue May 3 11:28:44 2016 +0530
+
+    folder has been reallinged
+
+ delete mode 100644 clamav_scan.sh
+ delete mode 100644 cpuusage.sh
+ delete mode 100644 findmovies.sh
+ delete mode 100644 history.sh
+ delete mode 100644 iptables.sh
+ delete mode 100644 jenkins.sh
+ delete mode 100644 kln-shell/fun-scripts/findmovies.sh
+ delete mode 100644 kln-shell/production-scripts/clamav_scan.sh
+ delete mode 100644 kln-shell/production-scripts/history.sh
+ delete mode 100644 kln-shell/production-scripts/iptables.sh
+ delete mode 100644 kln-shell/production-scripts/jenkins.sh
+ delete mode 100755 kln-shell/production-scripts/ping.sh
+ delete mode 100644 kln-shell/production-scripts/report.sh
+ delete mode 100644 kln-shell/production-scripts/utils.sh
+ delete mode 100644 kln-shell/shell-practice-scripts/sw1.sh
+ delete mode 100644 kln-shell/shell-practice-scripts/test.sh
+ delete mode 100755 ping.sh
+ delete mode 100644 report.sh
+ delete mode 100644 sw1.sh
+ delete mode 100644 test.sh
+ delete mode 100644 utils.sh
+
