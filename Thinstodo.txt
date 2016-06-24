@@ -1,0 +1,4 @@
+install centos7 and install bitami lamp
+git lab
+jenkins
+jira
