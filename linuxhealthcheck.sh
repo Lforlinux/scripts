@@ -1,5 +1,5 @@
 #!/bin/bash 
-EMAIL='lekshminarayanankarthik@yahoo.com'
+EMAIL='karthik.kln@gmail.com'
 function sysstat {
 echo -e "
 #####################################################################
@@ -136,6 +136,6 @@ then
 	then
 		echo "The program 'mail' is currently not installed."
 	else
-		cat $FILENAME | mail -s "Emerio-Redmine-system-health-check" $EMAIL
+		cat $FILENAME | mail -s "Lforlinux-system-health-check" $EMAIL
 	fi
 fi
