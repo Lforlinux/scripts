@@ -6,7 +6,7 @@
  echo -e "------------------------------------------------"
    
    
-   find /home/* \( -iname "*$file_name*.mp4" -o -iname "*$file_name*.avi" -o -iname "*$file_name*.mkv" \)  > /var/tmp/search.txt
+   find /home/* /media/*  \( -iname "*$file_name*.mp4" -o -iname "*$file_name*.avi" -o -iname "*$file_name*.mkv" \)  > /var/tmp/search.txt
     
     #Takes each file name and removes everything from name until the last '/' from left is found
     
