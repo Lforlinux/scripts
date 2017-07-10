@@ -1,4 +1,3 @@
-install centos7 and install bitami lamp
-git lab
-jenkins
-jira
+EMail Trigger for every build on Jenkins
+Email-ext plugin 
+Jenkins add a slave
