@@ -1,3 +1,11 @@
+import sys 
+
+colour=red
+inputclr = raw_input('Please Enter colour: ')
+
+enter singal colour = red
+
+
 signal = {}
 signal['red']='stop'
 signal['yellow']='about to red'

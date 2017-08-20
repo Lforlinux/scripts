@@ -2,7 +2,7 @@
 # This is some secure program that uses security.
 import sys
 
-validPassword = 'secret' #this is our password.
+validPassword = 'kln' #this is our password.
 
 inputPassword = raw_input('Please Enter Password: ')
 
